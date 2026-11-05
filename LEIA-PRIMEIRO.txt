@@ -1,0 +1,1 @@
+Execute iniciar.cmd. Neste computador, o iniciador usa o ambiente Python e a configuracao existentes em Music/POSTAGEM/poupa-grana quando necessario. Endereco: http://127.0.0.1:5090/entrar/. Mantenha a janela aberta. O pacote nao inclui senhas, banco ou ambiente Python; em outro computador sera necessario configurar o ambiente conforme README.md.
